@@ -114,4 +114,4 @@ E verificamos o quanto ele acertou segundo o treinamento feito:
 
 ![hit](https://user-images.githubusercontent.com/23524569/159414967-8f867fee-ae06-418e-9b22-e5886d9cdc18.png)
 
-Podemos ver que nosso algoritmo teve uma taxa de acerto de 75.96%. 
+Podemos ver que nosso algoritmo teve uma taxa de acerto de 82.66%. 
